@@ -1,0 +1,270 @@
+Name: Axe Hold
+Description: <p>Grab dumbbells and extend arms to side and hold as long as you can</p>
+
+---
+
+Name: Abdominal Stabilization
+Description: 
+
+---
+
+Name: Empuje de tríceps en cable
+Description: El empuje hacia abajo de la cuerda del cable es un ejercicio popular dirigido a los músculos tríceps. Es fácil de aprender y realizar, lo que lo convierte en el favorito de todos, desde principiantes hasta levantadores avanzados. Por lo general, se realiza para repeticiones de moderadas a altas, como 8-12 repeticiones o más por serie, como parte de un entrenamiento centrado en la parte superior del cuerpo o en los brazos.
+
+---
+
+Name: Adım atma
+Description: <ol><li>Sandalyeye dönük şekilde durun</li><li>Sandalyeye çıkın</li><li>Sandalyeden inin</li><li>Tekrarlayın</li></ol>
+
+---
+
+Name: Trazioni alla sbarra commando
+Description: Variazione dell'esercizio trazioni alla sbarra, viene eseguito con una presa di una mano supina e di una mano prona,non torcere il busto per rimettersi frontali, la testa passa una volta da un lato, una volta dall’altro.
+
+---
+
+Name: Kettlebell swing a una mano
+Description: Come un normale swing con kettelbell, solo con un braccio. Gambe divaricate alla larghezza delle spalle, inizia con il kettelbell tra le gambe e fallo oscillare davanti a te mentre allunghi le gambe, quindi riportalo indietro tra le gambe.
+
+---
+
+Name: Fingerboard 20 mm edge
+Description: Hang for 10 seconds on a fingerboard with a 20 mm edge
+
+---
+
+Name: Cable Rear Delt Fly
+Description: <p style="">The reverse cable fly, also known as the cable rear delt fly, is a deltoid muscle strengthening and definition exercise. It’s one of the best isolation exercises for your back and posterior deltoid.This workout targets your posterior (back) deltoids while using a range of upper body muscles.</p><p style=""></p><ol><li>Adjust the weight and the pulleys to the right height. You should be able to see the pulleys because they should be above your head.</li><li>With your right hand, grab the left pulley, and with your left hand, grab the right pulley, crossing them in front of you. This is where you’ll begin your journey.</li><li>Start the movement by moving your arms back and forth while keeping your arms straight.</li><li>Pause at the finish of the move for a brief moment before returning the handles to their starting positions.</li></ol><p></p>
+
+---
+
+Name: Incline Bench Reverse Fly - Hello
+Description: The incline dumbbell reverse fly is an upper-body exercise targeting the posterior or rear deltoids, as well as the postural muscles of the upper back. Because it targets such small muscles, this exercise is usually performed with light weight for high reps, such as 10-15 reps per set or more.
+
+---
+
+Name: Flexiones a pino
+Description: Flexiones mientras se hace el pino. Requiere mucha habilidad y fuerza
+
+---
+
+Name: Corsa in zona 2
+Description: Zona due Cardio per la resistenza, dovresti essere in grado di parlare mentre corri
+
+---
+
+Name: LYING DUMBBELL ROW SS SEATED SHRUG
+Description: laying on the stomach on a bench with slight angle
+
+---
+
+Name: Croci in sospensione
+Description: Esercizio di sospensione con trx per l'allenamento del torace
+
+---
+
+Name: Biceps con TRX
+Description: músculos implicados: bíceps Agarre las asas de las correas TRX, incline el cuerpo hacia atrás, brazos y piernas extendidos, cuerpo posicionado en una sola línea. (no es de abdominales, es de brazos)
+
+---
+
+Name: Kettlebell Swing
+Description: While kettlebell swings are a full-body workout, they mostly target the muscles along the posterior chain (back of the body). The main muscles used are the glutes, hamstrings, spinal erectors, and muscles of the upper back.
+
+---
+
+Name: Swimming 50m sprints
+Description: 50m swimming sprints at 1min
+
+---
+
+Name: Elliptical
+Description: It improves muscle toning, strengthens the leg muscles (quads, glutes, calves), helps vascularisation and increases resistance. The elliptical is also very useful if you aim to lose weight.
+
+---
+
+Name: Curl con kettlebell una sola mano
+Description: In piedi con il kettlebell in una mano e piega il gomito, parti da una posizione completamente distesa fino a quando la mano raggiunge l'altezza delle spalle. Per eseguire il movimento in modo corretto cerca di non spingere con la schiena o con il corpo.
+
+---
+
+Name: Crunch a libretto con palla medica
+Description: L'uso di una palla medica come sovraccarico renderà l'esercizio più pesante.
+
+---
+
+Name: Box Squat
+Description: <ol><li><b>Set up the box: </b>Position the box behind you, about 3 feet from a squat rack if you're using a barbell. Choose a height that allows you to squat down and gently tap your glutes on the box with your back straight.</li><li><b>Stand with proper form: </b>Stand with your feet shoulder-width apart, toes pointed slightly outward. Engage your core and keep your back neutral. If using a barbell, rack it at shoulder height.</li><li><b>Lower down: </b>Sit back as if going to sit on a chair, bending your knees and lowering your hips towards the box. Keep your core tight and back straight throughout the movement.</li><li><b>Controlled descent: </b>Descend in a controlled manner until your glutes gently touch the box. Don't plop down.</li><li><b>Pause and press up: </b>Briefly pause at the bottom with your back straight and core engaged. Then, press through your heels to drive yourself back up to the starting position.</li></ol>
+Improvements in coordination, balance and endurance, toning of the leg and buttock muscles and an overall increase in bone density eliminating the risk of osteoporosis.
+
+---
+
+Name: Addominali alla sbarra
+Description: sollevamento gambe 90° alla sbarra è un esercizio molto intenso che coinvolge tutta la muscolatura addominale.
+
+---
+
+Name: Sloper hanging
+Description: <p>Hanging on sloper holds of a fingerboard for a amount of seconds</p>
+
+---
+
+Name: Arnold Press
+Description: <p>Zwei Kurzhanteln mit den Handflächen nach innen vor der Brust halten, Ellbogen unterhalb der Handgelenke.</p>
+<p>Ellbogen nach außen bringen und Hanteln über den Kopf heben. Drehung kommt aus dem Ellbogen, nicht aus den Armen!</p>
+<p>Wenn die Arme durchgestreckt sind, die gleiche Bewegung rückwärts ausführen.</p>
+
+---
+
+Name: Barbell Hack Squats
+Description: <p>Perform leg squats with barbell behind your legs</p>
+
+---
+
+Name: Dumbbell Push-Up
+Description: <p>Normal Push-ups on Dumbbells, this brings a further range of movement</p>
+
+---
+
+Name: Abduktoren-Maschine
+Description: <ul>
+<li>in eine aufrechte Position setzen, bei der die Beine hüftbreit geöffnet sind</li>
+<li>den Rücken, die Knie und die Oberschenkelaußenseite an die jeweiligen Polster pressen</li>
+<li>mit den Händen an den Griffen festhalten</li>
+<li>die Oberschenkel bis zum Anschlagpunkt der Hebelarme auseinander drücken</li>
+<li>danach die Beine wieder zusammen führen</li>
+<li>das Gesäß nicht vom Sitz abheben</li>
+<li>beim Auseinanderdrücken der Hebelarme aus- und beim Zusammenführen einatmen</li>
+</ul>
+
+---
+
+Name: Barbell Lunges Standing
+Description: <p>Put barbell on the back of your shoulders. Stand upright, then take the first step forward. Step should bring you forward so that your supporting legs knee can touch the floor. Then stand back up and repeat with the other leg.</p>
+<p>Remember to keep good posture.</p>
+
+---
+
+Name: Barbell Lunges Walking
+Description: 
+
+---
+
+Name: Barbell Ab Rollout
+Description: <p>Place a barbell on the floor at your feet.</p>
+<p>Bending at the waist, grip the barbell with a shoulder with overhand grip.</p>
+<p>With a slow controlled motion, roll the bar out so that your back is straight.</p>
+<p>Roll back up raising your hips and butt as you return to the starting position.</p>
+
+---
+
+Name: Barbell Triceps Extension
+Description: <p>Position barbell overhead with narrow overhand grip.</p>
+<p>Lower forearm behind upper arm with elbows remaining overhead. Extend forearm overhead. Lower and repeat.</p>
+
+---
+
+Name: Barbell Reverse Wrist Curl
+Description: <p>Sitting on a bench, grab a barbell with your palms facing down and your hands shoulder-width apart. Rest your forearms on your thighs and allow your wrists to hang over your knees.</p>
+<p>Curl your knuckles towards your face, lifting the barbell. Pause for a moment in the top position, then slowly return the barbell to the starting position.</p>
+
+---
+
+Name: Bear Walk
+Description: <p>-Rest your weight on your palms and the balls of your feet, not dissimilar to normal pushup position</p>
+<p>-Move by stepping with your R palm and L foot, then your L palm and R foot.  Basically, walk like a lumbering bear.</p>
+<p>-Move as fast as you can.  Measure your reps/sets in either distance (i.e. 40 yards) or time (i.e. 45 seconds)</p>
+<p>-Works your Pecs, Deltoids, Triceps, Traps, Lats, Abs and Lower Back, Hip Flexors, Quads, Glutes and Calves</p>
+
+---
+
+Name: Corsa sul posto con ginocchia alte
+Description: <ol><li>Fai una corsa veloce sul posto, porta in alto le ginocchia ma senza sforzare</li></ol>
+
+---
+
+Name: Affondi
+Description: <ol><li>Stai in piedi a schiena dritta</li><li>Fai un grande passo avanti con la gamba sinistra</li><li>Abbassa il bacino fino a toccare quasi il pavimento con il ginocchio destro</li><li>Tendi il bacino in avanti</li><li>Ritorna in posizione eretta facendo un passo indietro</li><li>Ripeti, alternando le gambe ogni volta</li></ol>
+
+---
+
+Name: Klimmzug an Leiste
+Description: Klimmzüge an einer gewählten Leiste eines Fingerboards / Hangboards
+
+---
+
+Name: Draaiend opdrukken
+Description: <ol><li>Druk op:</li></ol><p>1.a Ga op je buik liggen.1.b Plaats je handen in de buurt van je oren.1.c Gebruik je armen om je buik omhoog te duwen totdat je armen gestrekt zijn - houd je rug recht.1.d Buig je armen totdat je borstkas bijna de grond raakt - houd je rug recht.1.e Kom weer omhoog en ga naar stap 3.</p><ol start="2"><li>Draai op je zij, houd je rug recht en raak alleen met je hand en voet de grond aan.</li><li>Herhaal, en wissel bij stap 2 telkens van zij</li></ol>
+
+---
+
+Name: Bočni podijeljeni čučnjevi lijevo
+Description: 
+
+---
+
+Name: Bočni podijeljeni čučnjevi desno
+Description: 
+
+---
+
+Name: Bugarski podijeljeni čučanj lijevo
+Description: 
+
+---
+
+Name: Bugarski podijeljeni čučanj desno
+Description: 
+
+---
+
+Name: Coice
+Description: <ol><li>Fique em posição de quatro.</li><li>Empurre um pé para trás até que esteja totalmente estendido, concentrando-se nos músculos dos glúteos.</li><li>Fique por um segundo depois retorne à posição inicial.</li><li>Repita, alternando os pés</li></ol>
+
+---
+
+Name: Dřep ve výpadu nalevo
+Description: <ol><li>Postavte se zády rovně</li><li>Udělejte velký krok vpřed levou nohou</li><li>Přiveďte pánev dolů, dokud se téměř nedotknete podlahy pravým kolenem</li><li>Přiveďte pánev zpět nahoru</li><li>Opakujte od kroku 3.</li></ol>
+
+---
+
+Name: Reverse Nordic Curl
+Description: Natural Leg Extension is alternative to Leg Extension machine with no equipment.&nbsp;&nbsp;
+
+---
+
+Name: Straight Bar Cable Curls
+Description: Standing upright in front of Cable Tower using a straight bar
+
+---
+
+Name: Cable Fly
+Description: cable machine, two steps forward, straight back
+
+---
+
+Name: Dřep ve výpadu napravo
+Description: <ol><li>Postavte se zády rovně</li><li>Udělejte velký krok vpřed levou nohou</li><li>Přiveďte pánev dolů, dokud se téměř nedotknete podlahy pravým kolenem</li><li>Přiveďte pánev zpět nahoru</li><li>Opakujte od kroku 3.</li></ol>
+
+---
+
+Name: Corda de Salto: saltos básicos
+Description: <p>Este exercício requer uma corda de salto. Certifique-se de que o comprimento da corda é ajustado à sua altura. Uma maneira de verificar é agarrar ambas as pegas com uma mão e ficar no meio da corda pendurada no chão com um pé. Se a corda (excluindo as pegas) chegar mesmo abaixo do seu peito, o seu comprimento é o correcto. Uma corda mais curta seria perigosa, pois poderia atingir-se a si próprio, e uma corda mais comprida seria uma má forma.</p><ol><li>Coloque os pés juntos, dobre um pouco os joelhos, mantenha a cabeça e o corpo direitos, mantenha os cotovelos para dentro, abra os braços.</li><li>Rodar apenas os pulsos com força suficiente para fazer girar a corda.</li><li>Saltem só com força suficiente para passar a corda por baixo dos pés.</li><li>Repita a partir do passo 2.</li></ol>
+
+---
+
+Name: TRX Rows
+Description: This exercise serves as a lead-up to Pull Ups.
+
+---
+
+Name: Addominali alla sbarra a gambe distese
+Description: Con presa salda a due mani alla sbarra, alza le gambe distese, fino a raggiungere un angolo di 90° con il busto
+
+---
+
+Name: Armkreisen vorwärts
+Description: <p>Ausgangsposition:</p><p>Stehen Sie aufrecht mit geradem Rücken.</p><p>Schritte:</p><ol><li>Führen Sie die Arme bei gestrecktem Körper vor sich her, führen Sie sie nach unten, hinter den Rücken, dann über den Kopf und zurück in die Ausgangsposition.</li><li>Lassen Sie die Arme wie in Schritt 1 beschrieben kreisen.</li></ol>
+
+---
+

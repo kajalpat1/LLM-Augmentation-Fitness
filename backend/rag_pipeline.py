@@ -5,14 +5,13 @@ from langchain.embeddings import OpenAIEmbeddings
 from routines import generate_routine
 
 def get_workout_response(query, goal=None, level=None):
-    # RAG if no params, otherwise return custom plan
     if goal and level:
         return generate_routine(goal, level)
 
     vectordb = FAISS.load_local("faiss_index", OpenAIEmbeddings())
     qa = RetrievalQA.from_chain_type(
-        llm=OpenAI(temperature=0),
+        llm=OpenAI(temperature=0),   
         retriever=vectordb.as_retriever(),
-        return_source_documents=False,
+        return_source_documents=False
     )
     return qa.run(query)
