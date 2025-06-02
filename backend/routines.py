@@ -5,7 +5,7 @@ def generate_routine(goal, fitness_level):
         "advanced":    ["Burpees", "Pull-ups", "Deadlifts", "Barbell Squats"]
     }
     goal_map = {
-        "weight loss": ["HIIT", "Cardio", "Bodyweight Circuits"],
+        "weight loss": ["HIT", "Cardio", "Bodyweight Circuits"],
         "muscle gain": ["Strength Training", "Progressive Overload", "Split Routines"],
         "endurance":   ["Steady-state Cardio", "Tempo Runs", "Core Circuits"]
     }
