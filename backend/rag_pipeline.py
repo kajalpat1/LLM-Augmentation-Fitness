@@ -1,17 +1,33 @@
+import os
+
 from langchain.chains import RetrievalQA
 from langchain.llms import OpenAI
-from langchain.vectorstores import FAISS
-from langchain.embeddings import OpenAIEmbeddings
-from routines import generate_routine
+from langchain_community.vectorstores import FAISS
+from langchain_community.embeddings import HuggingFaceEmbeddings
+from langchain.llms import HuggingFaceHub
 
-def get_workout_response(query, goal=None, level=None):
+from routines import generate_routine 
+
+def get_workout_response(query: str, goal: str = None, level: str = None):
+   
     if goal and level:
         return generate_routine(goal, level)
 
-    vectordb = FAISS.load_local("faiss_index", OpenAIEmbeddings())
+    hf_model = os.getenv("HUGGINGFACE_EMB_MODEL", "sentence-transformers/all-MiniLM-L6-v2")
+    embedder = HuggingFaceEmbeddings(model_name=hf_model)
+
+    vectordb = FAISS.load_local("faiss_index", embedder)
+
+    llm = HuggingFaceHub(
+    repo_id="google/flan-t5-small", #need free to work
+    model_kwargs={"temperature":0, "max_length":256}
+)  
+
+
     qa = RetrievalQA.from_chain_type(
-        llm=OpenAI(temperature=0),   
+        llm=llm,
         retriever=vectordb.as_retriever(),
-        return_source_documents=False
+        return_source_documents=False,
     )
+
     return qa.run(query)
