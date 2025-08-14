@@ -7,4 +7,4 @@ python-dotenv
 tqdm
 requests
 langchain_community[embedding_huggingface]
-sentence-transformers
+sentence-transformer
