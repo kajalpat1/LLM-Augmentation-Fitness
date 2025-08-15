@@ -5,6 +5,6 @@ openai
 faiss-cpu
 python-dotenv
 tqdm
-requests
+request
 langchain_community[embedding_huggingface]
 sentence-transformer
